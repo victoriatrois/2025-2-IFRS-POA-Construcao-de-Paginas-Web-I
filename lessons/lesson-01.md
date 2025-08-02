@@ -89,8 +89,6 @@ Esse pedido segue um padrão chamado **HTTP** ou **HTTPS**.
 
 ---
 
-## 🖥️ 6. O servidor responde
-
 O servidor processa o pedido e responde com os arquivos que formam a página:
 
 - Um arquivo HTML (estrutura da página)
@@ -99,8 +97,6 @@ O servidor processa o pedido e responde com os arquivos que formam a página:
 - Imagens, vídeos, ícones etc.
 
 ---
-
-## 🧠 7. O navegador monta a página
 
 Agora que recebeu os arquivos, o navegador começa a **interpretar e exibir** a página para você:
 
@@ -111,11 +107,16 @@ Agora que recebeu os arquivos, o navegador começa a **interpretar e exibir** a 
 
 ---
 
-## 🧾 8. Página exibida! ✅
-
 Tudo pronto! Agora você vê a página no seu navegador, como se fosse mágica. Mas por trás dessa mágica, existe muita tecnologia trabalhando em conjunto!
 
-Atividade: Fazer um item para o glossário da turma sobre **TCP**, **intranet**.
+---
+
+## Atividade 1
+
+Fazer um item para o glossário da turma sobre
+
+1. **TCP**
+2. **intranet**.
 
 TCP (Transmission Control Protocol) – s.m. protocolo de comunicação que garante que dados enviados por uma rede cheguem ao destino de integral.
 
@@ -128,3 +129,10 @@ Intranet – s.f. rede privada de uma empresa usada para compartilhar informaç�
 Fontes:
 
 TechSlang – <https://www.techslang.com/definition/what-is-an-intranet/>
+
+## Atividade 02
+
+Assistir ao vídeo disponível em <https://www.youtube.com/watch?v=xSGhV3ynmm4>
+Ler o artigo: Porque validar páginas Web disponível no Moodle - <https://animated-memory-v79xw9prp4q3vxx.github.dev/>
+
+Responder às questões disponível em: <https://moodle.poa.ifrs.edu.br/mod/lesson/view.php?id=476603> a partir de 04/08 às 15:42.
